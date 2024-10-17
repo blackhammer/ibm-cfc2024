@@ -72,7 +72,7 @@ As additional curated categories and activities are added, the app will learn fr
 
 ### Other IBM technology used
 
- - [IBM Identity and Access Management](https://www.ibm.com/services/identity-access-management) - IBM IAM was used to provide our Web API access to WatsonX AI REST endpoints. used in 
+ - [IBM Identity and Access Management](https://www.ibm.com/services/identity-access-management) - IBM IAM was used to provide our Web API access to WatsonX AI REST endpoints.  
 
 **Additional IBM AI services (Remove any that you did not use)**
 
