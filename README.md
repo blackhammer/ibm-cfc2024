@@ -21,11 +21,11 @@
 
 ### The issue we are hoping to solve
 
-Conscious Connector offers conscientious volunteering and sustainable living opportunities to help users give more meaning to how they spend their time.  The app suggests activities across various categories with the aim of addressing the growing trend of people spending their time in unproductive or environmentally harmful ways.
+It’s often unclear how to break out of the world of technology and understand how we can ‘do-good’ in the real world. Conscious Connector offers conscientious volunteering and sustainable living opportunities to help users give more meaning to how they spend their time.  The app suggests activities across various categories with the aim of addressing the growing trend of people spending their time in unproductive or environmentally harmful ways.
 
 ### How our technology solution can help
 
-Conscious Connector offers meaningful opportunities to give back to communities.
+Conscious Connector offers meaningful, eco-friendly activities to benefit communities.
 
 ### Our idea
 
